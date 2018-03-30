@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Watse Sybesma</title>
-    <link>https://watsesybesma.github.io/watsesybesma/home/</link>
+    <link>https://watsesybesma.nl/home/</link>
     <description>Recent content in Homes on Watse Sybesma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://watsesybesma.github.io/watsesybesma/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://watsesybesma.nl/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://watsesybesma.github.io/watsesybesma/home/about/</link>
+      <link>https://watsesybesma.nl/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://watsesybesma.github.io/watsesybesma/home/about/</guid>
+      <guid>https://watsesybesma.nl/home/about/</guid>
       <description>Biography Watse Sybesma is a postdoctoral research fellow of theoretical physics in the mathematics department of the university of Iceland.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://watsesybesma.github.io/watsesybesma/home/publications/</link>
+      <link>https://watsesybesma.nl/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://watsesybesma.github.io/watsesybesma/home/publications/</guid>
+      <guid>https://watsesybesma.nl/home/publications/</guid>
       <description>Hydrodynamic Modes of Homogeneous and Isotropic Fluids (link) Jan de Boer, Jelle Hartong, Niels A. Obers, Watse Sybesma, Stefan Vandoren
 submitted
 Perfect Fluids (link) Jan de Boer, Jelle Hartong, Niels A. Obers, Watse Sybesma, Stefan Vandoren
@@ -39,19 +39,19 @@ Published in JHEP 1705 (2017) 033</description>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://watsesybesma.github.io/watsesybesma/home/talks/</link>
+      <link>https://watsesybesma.nl/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://watsesybesma.github.io/watsesybesma/home/talks/</guid>
+      <guid>https://watsesybesma.nl/home/talks/</guid>
       <description> upcoming  4th of June 2018, University of Toronto, Toronto, Canada (scientific talk) 21st of April 2018, Mengi, Reykjavík, Iceland (popular performance)  recent past  1st of March 2018, Deurne, the Netherlands (popular performance)  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://watsesybesma.github.io/watsesybesma/home/contact/</link>
+      <link>https://watsesybesma.nl/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://watsesybesma.github.io/watsesybesma/home/contact/</guid>
+      <guid>https://watsesybesma.nl/home/contact/</guid>
       <description></description>
     </item>
     
